@@ -27,6 +27,8 @@ Everyone is allowed to contribute to this project.
 I am still in the research phase and haven't started to code anything.
 The GitHub repro is also not finaly setted up. If you have any suggestions just go ahead.
 
+All questions and discussions can start here: https://github.com/Steffeeeen1234/Homepage-Calendar-Reservation-Connector/discussions
+
 # Research
 
 ## Research Questions
