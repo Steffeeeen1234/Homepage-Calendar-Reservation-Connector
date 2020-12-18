@@ -18,9 +18,13 @@ Therefore the vision of this project is: Make reservations at doctors and plumbe
 1. This project should provide a calendar which can be integrated to your homepage easy. 
 1. It should provide a possibility to maintain the time for reservation spots. So that it fits the doctors office.
 1. It should provide a onnector to your favourite calendar (Outlook, Gmail, Notes, or what so ever).
-1. If possible it should be possible for google home, alexa, etc. to bock a free spot via voice.
+1. If possible it should be possible for google home, alexa, instagram, facebook, siri, etc. to bock a free spot via voice.
 1. Facebook bots and other bots should be able to use this standard or the connectors as well.
 1. The source of all of this will be free to use. Even if the company makes money out of this usage. (Todo: find out which licenz I have to set up for this)
+1. bring digitilization a step forward to a new area.
+1. make it possiblit to have an easy way to share your company calendar on your company website
+1. it needs to also fit in website building tools like wordpress
+
 
 # Contribute
 Everyone is allowed to contribute to this project. 
@@ -34,6 +38,10 @@ All questions and discussions can start here: https://github.com/Steffeeeen1234/
 ## Research Questions
 Q: Is there no possibility to bock a doctors appoint online?<br>
 A: Sure there are. There is for example this: <br>
+- https://www.medorganizer.de/medorganizer/ but they are a company who live from providing such a service and many more features. 
+I think the calendar feature is the most important one an can bring a lot benefit.
+- https://www.jameda.de/ 
+- this contains a set of other plattforms: https://t3n.de/news/arzttermine-online-buchen-1124001/
 
 Q: Are there any free to use calendar?
 A: I found this:
@@ -50,10 +58,11 @@ Used search strings:
 
 Q: Are there examples on github for doctors websites?
 
+
 Q: Why do so many doctors have no website?<br>
 Q: Why do so many doctors have no possibility to book a meeting online?<br>
 Q: Why are they not using online meetings?<br>
-Q: Is there a calendar standard which can be read by google, bots, etc.?<br>
+Q: Is there a calendar standard which can be read by google, bots, other professional meetings sites like jemeda, etc.? or is there a nother possiblity as doctore to get on these sides? <br>
 
 # Usergroups
 ## Hosts 
