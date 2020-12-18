@@ -33,7 +33,7 @@ The GitHub repro is also not finaly setted up. If you have any suggestions just 
 Q: Is there no possibility to bock a doctors appoint online?
 A: Sure there are. There is for example this
 
-Q: Why have so mayn doctors no website?
+Q: Why do so many doctors have no website?
 Q: Is there a calendar standard which can be read by google, bots, etc.?
 
 # Usergroups
