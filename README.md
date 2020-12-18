@@ -32,13 +32,13 @@ All questions and discussions can start here: https://github.com/Steffeeeen1234/
 # Research
 
 ## Research Questions
-Q: Is there no possibility to bock a doctors appoint online?
-A: Sure there are. There is for example this
+Q: Is there no possibility to bock a doctors appoint online?<br>
+A: Sure there are. There is for example this: <br>
 
-Q: Why do so many doctors have no website?
-Q: Why do so many doctors have no possibility to book a meeting online?
-Q: Why are they not using online meetings?
-Q: Is there a calendar standard which can be read by google, bots, etc.?
+Q: Why do so many doctors have no website?<br>
+Q: Why do so many doctors have no possibility to book a meeting online?<br>
+Q: Why are they not using online meetings?<br>
+Q: Is there a calendar standard which can be read by google, bots, etc.?<br>
 
 # Usergroups
 ## Hosts 
@@ -62,20 +62,20 @@ Clients are the normal user who reached the hosts webpage and who wants to reser
 1. wait
 
 # User Storys
-As host I want to maintain the free spots I have for the clients.
-As host I want to give a possibbility to fast select the common reseasons why someone wants a meeting
-As host I want ....
+As host I want to maintain the free spots I have for the clients.<br>
+As host I want to give a possibbility to fast select the common reseasons why someone wants a meeting<br>
+As host I want ....<br>
 
-As client I want to see when there are free spots
-As client I want to choose what why I want a reservation
-As client I want to get a notification if the appointment is set up
-As client I want to know if it is an online or offline appointment
-As client I want to choose which online appointment method I prefer/want to use
-As client I want ....
+As client I want to see when there are free spots<br>
+As client I want to choose what why I want a reservation<br>
+As client I want to get a notification if the appointment is set up<br>
+As client I want to know if it is an online or offline appointment<br>
+As client I want to choose which online appointment method I prefer/want to use<br>
+As client I want ....<br>
 
 
 # OutOfScope
-Building a Website plattform. This is allready done by many companies e.g. Wordpress
+Building a Website plattform. This is allready done by many companies e.g. Wordpress.<br>
 Setting up online meetings. But maybe we can rovite an interface to the common used online plattforms?
 
 
