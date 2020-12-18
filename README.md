@@ -35,6 +35,21 @@ All questions and discussions can start here: https://github.com/Steffeeeen1234/
 Q: Is there no possibility to bock a doctors appoint online?<br>
 A: Sure there are. There is for example this: <br>
 
+Q: Are there any free to use calendar?
+A: I found this:
+- Example on how to connect MS Exchange (https://github.com/DmitryStroganov/TeamCalendar)
+- Calendar layout: https://github.com/excid3/simple_calendar
+- html calendar: https://github.com/kevinxyc1/Meeting_Scheduler
+- https://github.com/peppetort/MeetApp-pureHTML
+- reminder mails: https://github.com/v5y8/email_sender
+Used search strings:
+- meeting
+- meetings
+- schedule meetings html
+
+
+Q: Are there examples on github for doctors websites?
+
 Q: Why do so many doctors have no website?<br>
 Q: Why do so many doctors have no possibility to book a meeting online?<br>
 Q: Why are they not using online meetings?<br>
@@ -69,8 +84,10 @@ As host I want ....<br>
 As client I want to see when there are free spots<br>
 As client I want to choose what why I want a reservation<br>
 As client I want to get a notification if the appointment is set up<br>
+As client I want that the notification contains a calendar file so that I can save it to my local calendar<br>
 As client I want to know if it is an online or offline appointment<br>
 As client I want to choose which online appointment method I prefer/want to use<br>
+As client I want to get a reminder e-mail<br>
 As client I want ....<br>
 
 
