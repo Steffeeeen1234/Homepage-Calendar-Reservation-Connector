@@ -63,6 +63,7 @@ Q: Why do so many doctors have no website?<br>
 Q: Why do so many doctors have no possibility to book a meeting online?<br>
 Q: Why are they not using online meetings?<br>
 Q: Is there a calendar standard which can be read by google, bots, other professional meetings sites like jemeda, etc.? or is there a nother possiblity as doctore to get on these sides? <br>
+Q: how to connect to Google, Outlook, etc. calendars via the internet?
 
 # Usergroups
 ## Hosts 
