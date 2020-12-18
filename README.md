@@ -36,6 +36,8 @@ Q: Is there no possibility to bock a doctors appoint online?
 A: Sure there are. There is for example this
 
 Q: Why do so many doctors have no website?
+Q: Why do so many doctors have no possibility to book a meeting online?
+Q: Why are they not using online meetings?
 Q: Is there a calendar standard which can be read by google, bots, etc.?
 
 # Usergroups
@@ -44,6 +46,20 @@ Hosts are the once who will invite you (e.g. a doctor or a plumber)
 
 ## Clients
 Clients are the normal user who reached the hosts webpage and who wants to reserve a spot.
+
+# Story Map
+
+## Get an appointment for a doctor you don't know
+1. User has some kind of a problem
+1. user open search engine (e.g. google)
+1. user enters "need general doctors in berlin"
+1. user chooses the one he already knows OR 
+1. 
+
+## Get an appointment for a doctor you know
+1. find the doctors phonenumber over search engin
+1. call the phonnumber
+1. wait
 
 # User Storys
 As host I want to maintain the free spots I have for the clients.
@@ -54,8 +70,12 @@ As client I want to see when there are free spots
 As client I want to choose what why I want a reservation
 As client I want to get a notification if the appointment is set up
 As client I want to know if it is an online or offline appointment
+As client I want to choose which online appointment method I prefer/want to use
 As client I want ....
 
 
 # OutOfScope
-Building a Website plattform. This is allready done by mayn companies e.g. Wordpress
+Building a Website plattform. This is allready done by many companies e.g. Wordpress
+Setting up online meetings. But maybe we can rovite an interface to the common used online plattforms?
+
+
