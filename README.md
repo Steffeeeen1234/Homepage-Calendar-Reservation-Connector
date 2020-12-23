@@ -36,7 +36,7 @@ All questions and discussions can start here: https://github.com/Steffeeeen1234/
 # Research
 
 ## Research Questions
-Q: Is there no possibility to bock a doctors appoint online?<br>
+Q: Is there no possibility to book a doctors appoint online?<br>
 A: Sure there are. There is for example this: <br>
 - https://www.medorganizer.de/medorganizer/ but they are a company who live from providing such a service and many more features. 
 I think the calendar feature is the most important one an can bring a lot benefit.
@@ -55,6 +55,10 @@ Used search strings:
 - meetings
 - schedule meetings html
 
+Q: Is there a calendar standard which can be read by google, bots, other professional meetings sites like jemeda, etc.? or is there a nother possiblity as doctore to get on these sides? <br>
+A: I found the following:<br>
+- reserve with google: https://www.google.com/maps/reserve/
+- A project which has imp,emnted it: https://github.com/tchssk/reserve-with-google-goa
 
 Q: Are there examples on github for doctors websites?
 
@@ -62,7 +66,7 @@ Q: Are there examples on github for doctors websites?
 Q: Why do so many doctors have no website?<br>
 Q: Why do so many doctors have no possibility to book a meeting online?<br>
 Q: Why are they not using online meetings?<br>
-Q: Is there a calendar standard which can be read by google, bots, other professional meetings sites like jemeda, etc.? or is there a nother possiblity as doctore to get on these sides? <br>
+
 Q: how to connect to Google, Outlook, etc. calendars via the internet?
 
 # Usergroups
