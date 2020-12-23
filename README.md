@@ -1,6 +1,6 @@
 # Homepage Calendar Reservation Connector
 # Vision
-Make reservations at doctors and plumbers as easy as reserving a table at your famous restaurant
+Make reservations at doctors and craftsman (such as plumbers) as easy as reserving a table at your famous restaurant
 
 # Introduction
 This project is all about digitialization.
@@ -57,7 +57,7 @@ Used search strings:
 
 Q: Is there a calendar standard which can be read by google, bots, other professional meetings sites like jemeda, etc.? or is there a nother possiblity as doctore to get on these sides? <br>
 A: I found the following:<br>
-- reserve with google: https://www.google.com/maps/reserve/
+- reserve with google: https://www.google.com/maps/reserve/; https://developers.google.com/maps-booking
 - A project which has imp,emnted it: https://github.com/tchssk/reserve-with-google-goa
 
 Q: Are there examples on github for doctors websites?
@@ -74,7 +74,7 @@ Q: how to connect to Google, Outlook, etc. calendars via the internet?
 Hosts are the once who will invite you (e.g. a doctor or a plumber)
 
 ## Clients
-Clients are the normal user who reached the hosts webpage and who wants to reserve a spot.
+Clients are the normal users who reached the hosts webpage and who wants to reserve aan appointment.
 
 # Story Map
 
