@@ -24,7 +24,7 @@ Therefore, the vision of this project is: Make reservations for appointments at 
 1. It should provide a connector to your favorite calendar (Outlook, Gmail, Notes, or whatsoever).
 1. If possible it should be possible for google home, alexa, instagram, facebook, siri, etc. to make a reservation for a free spot via voice.
 1. Facebook bots and other bots should be able to use this standard or the connectors as well to make reservations.
-1. The source of all of this will be free to use. Even if the company makes money out of this usage. (Todo: find out which license I must set up for this)
+1. The source of all of this will be free to use. Even if the company makes money out of this usage. (Todo: find out which license I must set up for this https://github.com/Steffeeeen1234/Homepage-Calendar-Reservation-Connector/projects/1#card-70878849)
 1. bring digitalization a step forward to a new area.
 1. make it possible to have an easy way to share your company calendar on your company website
 1. it also needs to fit in website building tools like wordpress
