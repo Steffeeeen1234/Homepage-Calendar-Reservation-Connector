@@ -24,7 +24,7 @@ Therefore, the vision of this project is: Make reservations for appointments at 
 1. It should provide a connector to your favorite calendar (Outlook, Gmail, Notes, or whatsoever).
 1. If possible it should be possible for google home, alexa, instagram, facebook, siri, etc. to make a reservation for a free spot via voice.
 1. Facebook bots and other bots should be able to use this standard or the connectors as well to make reservations.
-1. The source of all of this will be free to use. Even if the company makes money out of this usage. (Todo: find out which license I must set up for this https://github.com/Steffeeeen1234/Homepage-Calendar-Reservation-Connector/projects/1#card-70878849)
+1. The source of all of this will be free to use. Even if the company makes money out of this usage. Therefor I have set the licence to "uUnlicense License"
 1. bring digitalization a step forward to a new area.
 1. make it possible to have an easy way to share your company calendar on your company website
 1. it also needs to fit in website building tools like wordpress
@@ -38,7 +38,8 @@ from customer/client side <br>
 from host side <br>
 (+) easy handling <br>
 (-) to many requests <br>
-(+) secretaries can focus on their work
+(+) secretaries can focus on their work <br>
+(+) faster information to the clients if there is a delay or so <br>
 
 ## Contribute
 Everyone can contribute to this project. 
@@ -59,6 +60,9 @@ I think the calendar feature is the most important one and can bring a lot benef
 - https://www.jameda.de/ 
 - this contains a set of other platforms: https://t3n.de/news/arzttermine-online-buchen-1124001/
 - https://www.doctolib.de/
+- Good example because there everything is possible online: https://spieren.de/24-stunden-services/termin-buchen/
+- another good example https://hausarztpraxis-matern.de/
+- or here: https://termin.samedi.de/b/sara-matern/1/matern-sara--2/sprechstunde?ref=papp-my-doctors
 
 Q: Is there a possibility to make the reservation available over google/maps?<br>
 A: I found the following:<br>
