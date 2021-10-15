@@ -28,16 +28,17 @@ Therefore, the vision of this project is: Make reservations for appointments at 
 1. bring digitalization a step forward to a new area.
 1. make it possible to have an easy way to share your company calendar on your company website
 1. it also needs to fit in website building tools like wordpress
-1. having an all-around service (we should think about it) which includes: optimizing their homepage, setting up and maintaining the bots and calendars, suggesting new dates if the doctor/craftsman has a urgent topic to take care of, sending reminder mails for the customer
+1. having an all-around service (we should think about it) which includes: optimizing their homepage, setting up and maintaining the bots and calendars, suggesting new dates if the doctor/craftsman has an urgent topic to take care of, sending reminder mails for the customer
 
 ## Pros and Cons
 from customer/client side <br>
 (+) easy booking <br>
-(+) no calls neded <br>
+(+) no calls needed <br>
 
 from host side <br>
 (+) easy handling <br>
 (-) to many requests <br>
+(+) secretaries can focus on their work
 
 ## Contribute
 Everyone can contribute to this project. 
@@ -59,7 +60,7 @@ I think the calendar feature is the most important one and can bring a lot benef
 - this contains a set of other platforms: https://t3n.de/news/arzttermine-online-buchen-1124001/
 - https://www.doctolib.de/
 
-Q: Is there a possibility to make the reservation available over google/maps?
+Q: Is there a possibility to make the reservation available over google/maps?<br>
 A: I found the following:<br>
 Reserve with google: 
 - https://www.google.com/maps/reserve/; https://developers.google.com/maps-booking
@@ -71,17 +72,18 @@ Booking on google
 Appointment URL: https://getreferralmd.com/2017/09/3-new-google-business-features-doctors-increase-appointment-booking/
 - can be linked to a booking company or to one landing page where the user can finde the booking details
 
-Q: Why should someone not use the mentioned sites?
+Q: Why should someone not use the mentioned sites?<br>
 A: Because we need more competition.<br>
-Because the user experience is much better if it is integrated in the doctors/craftsman homepage. Or if it can be used by Google, Alexa, etc. 
+Because the user experience is much better if it is integrated in the doctors/craftsman homepage. Or if it can be used by Google, Alexa, etc. And I believe there mus be a possibility for those small companies, that they could do it on their own an which is free of charge if they do it on their own.
 
-Q: Are there any free to use calendar?
+Q: Are there any free to use calendar?<br>
 A: I found this:
 - Example on how to connect MS Exchange (https://github.com/DmitryStroganov/TeamCalendar)
 - Calendar layout: https://github.com/excid3/simple_calendar
 - html calendar: https://github.com/kevinxyc1/Meeting_Scheduler
 - https://github.com/peppetort/MeetApp-pureHTML
 - reminder mails: https://github.com/v5y8/email_sender
+
 Used search strings on github:
 - meeting
 - meetings
@@ -91,31 +93,39 @@ Q: Is there a calendar standard which can be read by google, bots, other profess
 The goal would be that google or the other side crawl the doctors site and get the appointment URL (see above) automatically and inserts it to the business site on google.
 
 
-Q: Are there examples on github for doctors’ websites?
-
-
+Q: Are there examples on github for doctors’ websites?<br>
 Q: Why do so many doctors have no website?<br>
 Q: Why do so many doctors have no possibility to book a meeting online?<br>
 Q: Why are they not using online meetings?<br>
 
-Q: how to connect to Google, Outlook, etc. calendars via the internet?
-A: in this it is described how to make timeslotes available for others: https://it.stonybrook.edu/help/kb/creating-bookable-appointment-slots-in-google-calendar
+Q: How to connect to Google, Outlook, etc. calendars via the internet?<br>
+A: In this it is described how to make timeslotes available for others: https://it.stonybrook.edu/help/kb/creating-bookable-appointment-slots-in-google-calendar
 
 ## User groups
 ### Hosts 
-Hosts are the once who will invite you (e.g. a doctor or a craftsman)
+Hosts are the once who will invite you (e.g. a doctor or a craftsman).<br>
+Hosts have usually not so much experience with their online appearence, because they think it is not so important for them.<br>
 
 ### Clients
-Clients are the normal users who reached the hosts webpage and who wants to reserve an appointment.
+Clients are the normal users who reached the hosts webpage and who wants to reserve an appointment.<br>
+The clients are usally very into user experience. Easy to use websites, apps, etc. is very important to them.<br>
+If they want to contact someone it needs to be NOW. Now can be at any time<br>
 
 ## Story Map
+
+The story map shows the happy path of the szenario.
 
 ### Get an appointment for a doctor you don't know
 1. User has a problem
 1. User opens search engine (e.g. google)
 1. User enters "need general doctors in berlin"
 1. User chooses the one with the best recommendation 
-1. User get directed to the webside of the doctor/ or calls the doctor
+1. User gets directed to the webside of the doctor/ or calls the doctor
+1. Call: User reaches the doctors office and gets an appointment
+1. Website: User enteres what he wants
+2. User gets suggested dates and times
+3. User chooses one
+4. User gets booking confirmation
 
 ### Get an appointment for a doctor you know
 1. find the doctors phone number over search engine
@@ -156,5 +166,5 @@ Setting up online meetings. But maybe we can provide an interface to the commonl
 ## Requirements
 - create a google business account
 - set up some google analytics
-- link you business to the business account so that it is availoable on google
+- link your business to the business account so that it is available on google
 - create a appointment site, where the user can finde all details and where they can book an appointment
